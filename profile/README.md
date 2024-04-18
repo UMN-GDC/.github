@@ -1,3 +1,5 @@
+![](WideLogo.jpg)
+
 # [UMN GDC](https://rc.umn.edu/project/u-m-genomic-data-commons)
 
 With the advance of genomics tools, researchers now can access huge amounts of genomics data on individuals when performing observational studies. These multidimensional genomic data can greatly assist in better characterization of risk factors, defining an outcome of interest, and understanding disease etiology at a molecular level.
