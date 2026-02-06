@@ -21,3 +21,4 @@ Research Computing partners:
 
 ![GDC flow diagram](https://rc.umn.edu/sites/rc.umn.edu/files/2022-08/UMN_GDC.jpg)
 
+![Members](https://img.shields.io/badge/members-7-blue)
