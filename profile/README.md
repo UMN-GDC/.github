@@ -2,6 +2,8 @@
 
 # [UMN GDC](https://rc.umn.edu/project/u-m-genomic-data-commons)
 
+![Members](https://img.shields.io/badge/members-7-blue)
+
 With the advance of genomics tools, researchers now can access huge amounts of genomics data on individuals when performing observational studies. These multidimensional genomic data can greatly assist in better characterization of risk factors, defining an outcome of interest, and understanding disease etiology at a molecular level.
 
 Professor Saonli Basu (Biostatistics; MSI PI) is leading a project called [“The University of Minnesota Genomic Data Commons (GDC),”](https://www.sph.umn.edu/research/centers/genomic-data-commons/about/) that is building a central location for genomic data storage, management, and analysis for U of M researchers. The project team includes members from Biostatistics, UMII, MSI, and the Masonic Institute for the Developing Brain. The proposed database will facilitate reproducible genomic research including streamlining the preprocessing steps, building a culture of genomic data sharing among researchers, and minimizing the number of repetitive work (e.g., cloning and curating the same dataset over and over). The GDC will focus on three major aims:
@@ -20,5 +22,3 @@ Research Computing partners:
 - Minnesota Supercomputing Institute
 
 ![GDC flow diagram](https://rc.umn.edu/sites/rc.umn.edu/files/2022-08/UMN_GDC.jpg)
-
-![Members](https://img.shields.io/badge/members-7-blue)
