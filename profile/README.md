@@ -23,5 +23,6 @@ This project is supported by a **UMII Seed Grant** under the **MnDRIVE initiativ
 * **Minnesota Supercomputing Institute (MSI)**
 * **Masonic Institute for the Developing Brain (MIDB)**
 
+[Link to UMN School of Public Health Genomics Data Commons Website](https://www.sph.umn.edu/research/centers/genomic-data-commons/)
 
 ![Workflow diagram of the UMN Genomic Data Commons: from raw data storage and harmonized FAIR integration to bioinformatics analysis pipelines and user-facing web portals.](https://rc.umn.edu/sites/rc.umn.edu/files/2022-08/UMN_GDC.jpg)
