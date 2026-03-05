@@ -1,24 +1,27 @@
+# UMN Genomic Data Commons (GDC): Bioinformatics & Data Management
 ![](WideLogo.jpg)
 
 # [UMN GDC](https://rc.umn.edu/project/u-m-genomic-data-commons)
 
 ![Members](https://img.shields.io/badge/members-7-blue)
 
-With the advance of genomics tools, researchers now can access huge amounts of genomics data on individuals when performing observational studies. These multidimensional genomic data can greatly assist in better characterization of risk factors, defining an outcome of interest, and understanding disease etiology at a molecular level.
+## Bioinformatics, Data Management, and Genomic Analysis at the University of Minnesota
 
-Professor Saonli Basu (Biostatistics; MSI PI) is leading a project called [“The University of Minnesota Genomic Data Commons (GDC),”](https://www.sph.umn.edu/research/centers/genomic-data-commons/about/) that is building a central location for genomic data storage, management, and analysis for U of M researchers. The project team includes members from Biostatistics, UMII, MSI, and the Masonic Institute for the Developing Brain. The proposed database will facilitate reproducible genomic research including streamlining the preprocessing steps, building a culture of genomic data sharing among researchers, and minimizing the number of repetitive work (e.g., cloning and curating the same dataset over and over). The GDC will focus on three major aims:
+The **UMN Genomic Data Commons (GDC)** is building a centralized hub for genomic data storage, management, and analysis. Led by **Professor Saonli Basu (Biostatistics; MSI PI)**, our mission is to provide U of M researchers with the infrastructure needed for high-dimensional genomic observational studies.
 
-- Developing centralized datastore for storing local and publicly available genomic data, pre-processed, harmonized and integrated according to the Findability, Accessibility, Interoperability, and Reusability (FAIR) principles for scientific data management.
-- Developing a web interface/portal for end users to access some basic summary information about these datasets and submit requests for data analysis.
-- Developing analytic pipelines to perform different genomic analyses utilizing these integrated datasets. The pipelines will be developed in python or R and streamlined to provide platform-independent packages.
+### Our Core Aims
+* **FAIR Data Management:** Developing a centralized datastore for local and public genomic data following **Findability, Accessibility, Interoperability, and Reusability (FAIR)** principles.
+* **Web Interface & Portal:** A user-friendly gateway to access summary information and submit analysis requests.
+* **Analytic Pipelines:** Creating reproducible, platform-independent packages in **Python**, **Bash** and **R** to streamline different genomic quality control steps, as well as various genomic analyses.
 
-This project recently received a UMII Seed Grant. UMII Seed Grant funds are intended to promote, catalyze, accelerate and advance UMN-based informatics research in areas related to the MnDRIVE initiative, so that U of M faculty and staff are well prepared to compete for longer term external funding opportunities. 
+### Research Partners & Funding
+This project is supported by a **UMII Seed Grant** under the **MnDRIVE initiative** (Discoveries and Treatments for Brain Conditions).
 
-This Seed Grant falls under the Discoveries and Treatments for Brain Conditions research areas of the MnDRIVE initiative.
+**Collaborating Institutes:**
+* **UMN Biostatistics** (School of Public Health)
+* **University of Minnesota Informatics Institute (UMII)**
+* **Minnesota Supercomputing Institute (MSI)**
+* **Masonic Institute for the Developing Brain (MIDB)**
 
-Research Computing partners:
 
-- University of Minnesota Informatics Institute
-- Minnesota Supercomputing Institute
-
-![GDC flow diagram](https://rc.umn.edu/sites/rc.umn.edu/files/2022-08/UMN_GDC.jpg)
+![Workflow diagram of the UMN Genomic Data Commons: from raw data storage and harmonized FAIR integration to bioinformatics analysis pipelines and user-facing web portals.](https://rc.umn.edu/sites/rc.umn.edu/files/2022-08/UMN_GDC.jpg)
