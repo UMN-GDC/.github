@@ -1,7 +1,7 @@
 # UMN Genomic Data Commons (GDC): Bioinformatics & Data Management
 ![](WideLogo.jpg)
 
-# [UMN GDC]([https://rc.umn.edu/project/u-m-genomic-data-commons](https://www.sph.umn.edu/research/centers/genomic-data-commons/)
+# [UMN GDC](https://www.sph.umn.edu/research/centers/genomic-data-commons/)
 
 ![Members](https://img.shields.io/badge/members-7-blue)
 
@@ -20,9 +20,9 @@ PLACEHOLDER for R25
 PLACEHOLDER for HBCD
 
 **Collaborating Institutes:**
-* **UMN Biostatistics and Health Data Science,School of Public Health (BHDS,SPH)**
-* **Minnesota Supercomputing Institute (MSI)**
-* **Masonic Institute for the Developing Brain (MIDB)**
+* **[UMN Biostatistics and Health Data Science, School of Public Health (BHDS,SPH)](https://www.sph.umn.edu/academics/divisions/biostatistics/)**
+* **[Minnesota Supercomputing Institute (MSI)](https://msi.umn.edu/)**
+* **[Masonic Institute for the Developing Brain (MIDB)](https://midb.umn.edu/)**
 
 [Link to UMN School of Public Health Genomics Data Commons Website](https://www.sph.umn.edu/research/centers/genomic-data-commons/)
 
