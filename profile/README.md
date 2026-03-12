@@ -1,7 +1,7 @@
 # UMN Genomic Data Commons (GDC): Bioinformatics & Data Management
 ![](WideLogo.jpg)
 
-# [UMN GDC](https://rc.umn.edu/project/u-m-genomic-data-commons)
+# [UMN GDC]([https://rc.umn.edu/project/u-m-genomic-data-commons](https://www.sph.umn.edu/research/centers/genomic-data-commons/)
 
 ![Members](https://img.shields.io/badge/members-7-blue)
 
@@ -16,10 +16,11 @@ The **UMN Genomic Data Commons (GDC)** is building a centralized hub for genomic
 
 ### Research Partners & Funding
 This project is supported by a **UMII Seed Grant** under the **MnDRIVE initiative** (Discoveries and Treatments for Brain Conditions).
+PLACEHOLDER for R25
+PLACEHOLDER for HBCD
 
 **Collaborating Institutes:**
-* **UMN Biostatistics** (School of Public Health)
-* **University of Minnesota Informatics Institute (UMII)**
+* **UMN Biostatistics and Health Data Science,School of Public Health (BHDS,SPH)**
 * **Minnesota Supercomputing Institute (MSI)**
 * **Masonic Institute for the Developing Brain (MIDB)**
 
