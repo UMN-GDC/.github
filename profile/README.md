@@ -68,10 +68,5 @@ This project is currently supporting the HBCD Genomic Analysis ( https://hbcdstu
 
 ---
 
-## Architecture Overview
-
-![UMN GDC Architecture](https://rc.umn.edu/sites/rc.umn.edu/files/2022-08/UMN_GDC.jpg)
-
----
 
 
