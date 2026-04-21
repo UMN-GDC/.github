@@ -7,71 +7,55 @@
 
 ![Members](https://img.shields.io/badge/members-7-blue)
 
----
-
-## Overview
-
-The **University of Minnesota Genomic Data Commons (UMN GDC)** is an institutional platform for **secure, scalable, and reproducible genomic and multi-omics data analysis**.
-
-With the rapid advancement of genomics technologies, researchers can now access large-scale, high-dimensional datasets. UMN GDC enables efficient use of these data by providing:
-
-- Centralized genomic data storage and management  
-- Standardized preprocessing and harmonization pipelines  
-- Reproducible workflows for large-scale studies  
-- Secure and governance-aware data access  
+This GitHub organization hosts analytic pipelines, statistical methods, and processing workflows developed under the University of Minnesota Genomic Data Commons (UMN GDC).
 
 ---
 
-## Mission
+## Repository Structure
 
-UMN GDC aims to reduce duplication of effort, improve reproducibility, and accelerate discovery by building a shared infrastructure for genomic and biomedical data science.
+This organization includes three types of resources:
 
----
-
-## Core Components
-
-### 1. Data Infrastructure
-- Centralized datastore for local and controlled-access genomic datasets  
-- FAIR-compliant data organization (Findable, Accessible, Interoperable, Reusable)  
-
-### 2. Data Access & Portal
-- Web-based interface for dataset discovery  
-- Secure request and access workflows  
-- Summary dashboards for cohort-level exploration  
-
-### 3. Analytical Pipelines
-- Scalable pipelines for genomic and multi-omics data  
-- Implemented in Python and R  
-- Designed for reproducibility and cross-platform deployment  
+### 1. Statistical Methods
+Core modeling and analysis tools:
+- heritability estimation
+- PRS modeling
+- multi-ancestry methods
 
 ---
 
-## Research Focus Areas
-
-- Statistical genomics and heritability estimation  
-- Imaging-genetics and brain health  
-- Multi-ancestry genomic analysis  
-- Integration of genomics, clinical, and environmental data  
-
----
-
-## Software & Pipelines
-
-Explore all tools and pipelines developed under UMN GDC:
-
-👉 https://github.com/UMN-GDC
-
-(Each repository includes documentation and reproducible workflows for genomic data analysis.)
+### 2. Data Processing Pipelines
+Workflows for preprocessing and harmonization of omics data:
+- genomic QC (sample + variant level)
+- ancestry inference
+- relatedness estimation
+- proteomics QC and normalization
 
 ---
+
+### 3. Reproducible Analysis Workflows
+Scripts and pipelines for:
+- end-to-end genomic analysis
+- integration across datasets
+- standardized workflows across projects
+- 
+---
+
+## Repositories
+
+| Repository | Type | Description | Website !
+|-----------  |------|------------|----------|
+|GDCGenomicQC | Pipeline | Genomic QC workflow |https://github.com/UMN-GDC/GDCGenomicsQC|
+| MASH | Method | Heritability estimation | https://github.com/UMN-GDC/MASH|
+| prs_pipeline | Pipeline | Polygenic Risk Score Analysis |https://github.com/UMN-GDC/prs_pipeline|
+
 
 ## Project Leadership
 
 Led by **Professor Saonli Basu**  
-Division of Biostatistics, University of Minnesota  
+Division of Biostatistics and Health Data Science, University of Minnesota  
 
 Collaborating units:
-- University of Minnesota Informatics Institute (UMII)  
+- University of Minnesota School of Public Health
 - Minnesota Supercomputing Institute (MSI)  
 - Masonic Institute for the Developing Brain  
 
@@ -80,6 +64,7 @@ Collaborating units:
 ## Funding
 
 This project is supported by a **UMII Seed Grant**, part of the MnDRIVE initiative for discoveries and treatments in brain conditions.
+This project is currently supporting the HBCD Genomic Analysis ( https://hbcdstudy.org/ ) and Reproducible Research in Brain Imaging Genetics workshop (https://www.sph.umn.edu/research/projects/rr-big/).
 
 ---
 
@@ -89,9 +74,4 @@ This project is supported by a **UMII Seed Grant**, part of the MnDRIVE initiati
 
 ---
 
-## About this GitHub Organization
 
-This GitHub organization hosts software, pipelines, and tools developed as part of the **UMN Genomic Data Commons (UMN GDC)**.
-
-For more information, visit:  
-https://www.sph.umn.edu/research/centers/genomic-data-commons/
