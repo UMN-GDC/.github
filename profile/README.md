@@ -45,8 +45,9 @@ Scripts and pipelines for:
 | Repository | Type | Description | Website !
 |-----------  |------|------------|----------|
 |GDCGenomicQC | Pipeline | Genomic QC workflow |https://github.com/UMN-GDC/GDCGenomicsQC|
+|phenotype_simulations|Method|Synthetic Data Generation|https://github.com/UMN-GDC/phenotype_simulations|
 | MASH | Method | Heritability estimation | https://github.com/UMN-GDC/MASH|
-| prs_pipeline | Pipeline | Polygenic Risk Score Analysis |https://github.com/UMN-GDC/prs_pipeline|
+| prs_pipeline | PRS Pipeline | Polygenic Risk Score Analysis |https://github.com/UMN-GDC/prs_pipeline|
 
 
 ## Project Leadership
