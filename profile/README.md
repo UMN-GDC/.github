@@ -24,11 +24,10 @@ Core modeling and analysis tools:
 ---
 
 ### 2. Data Processing Pipelines
-Workflows for preprocessing and harmonization of omics data:
+Workflows for preprocessing and harmonization of genetic data:
 - genomic QC (sample + variant level)
 - ancestry inference
 - relatedness estimation
-- proteomics QC and normalization
 
 ---
 
@@ -37,7 +36,6 @@ Scripts and pipelines for:
 - end-to-end genomic analysis
 - integration across datasets
 - standardized workflows across projects
-- 
 ---
 
 ## Repositories
